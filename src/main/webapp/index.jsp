@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abu Thahir</title>
+    <title>Kastro Kiran</title>
     <link rel="stylesheet" type="text/css" href="theme.css">
 </head>
 <body>
